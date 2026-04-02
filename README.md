@@ -20,15 +20,15 @@ The notebook demonstrates how AI techniques can be applied to biomedical dataset
 
 ### Repository Structure
 
-├── AI_project_Uditha_Tobi_apr2.ipynb   # Main Jupyter Notebook  
-├── README.md                           # Project documentation  
-├── environment.yml                     # Conda environment file
-├── data/ Input                         # Input dataset  
-└── data/ Output                        # Output folder 
+├── AI_project_Uditha_Tobi_apr2.ipynb  # Main Jupyter Notebook  
+├── README.md                          # Project documentation  
+├── environment.yml                    # Conda environment file  
+├── data/ Input                        # Input dataset  
+└── data/ Output                       # Output folder
 
 ---
 
-### ⚙️ Environment Setup
+### Environment Setup
 
 This project uses:
 
@@ -89,7 +89,7 @@ conda activate mbp1413h_env
 ---
 
 ### Author
-Uditha & Oluwatobi
+Uditha Maduranga & Oluwatobi Agbede
 
 ---
 
