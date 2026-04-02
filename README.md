@@ -20,7 +20,7 @@ The notebook demonstrates how AI techniques can be applied to biomedical dataset
 
 ### Repository Structure
 
-├── AI_project_Uditha_Tobi_apr2.ipynb  # Main Jupyter Notebook  
+├── AI_project_Final.ipynb  # Main Jupyter Notebook  
 ├── README.md                          # Project documentation  
 ├── environment.yml                    # Conda environment file  
 ├── data/ Input                        # Input dataset  
