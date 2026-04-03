@@ -23,8 +23,8 @@ The notebook demonstrates how AI techniques can be applied to biomedical dataset
 ├── AI_project_Final.ipynb  # Main Jupyter Notebook  
 ├── README.md                          # Project documentation  
 ├── environment.yml                    # Conda environment file  
-├── data/ Input                        # Input dataset  
-└── data/ Output                       # Output folder
+├── Input                              # Input dataset  
+└── Output                             # Output folder
 
 ---
 
