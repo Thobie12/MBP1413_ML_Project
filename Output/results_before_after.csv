@@ -1,0 +1,21 @@
+Model,AUROC,F1,Precision,Recall,AUC-PR,Version,Threshold
+Random Forest balanced+calibrated [Default (0.50)],0.6791,0.1667,0.3544,0.109,0.2237,Improved,0.251
+Random Forest balanced+calibrated [Optimal (0.25)],0.6791,0.2673,0.2458,0.2928,0.2237,Improved,0.251
+Neural Network tuned+calibrated [Default (0.50)],0.6712,0.0187,0.6111,0.0095,0.2139,Improved,0.148
+Neural Network tuned+calibrated [Optimal (0.15)],0.6712,0.276,0.2124,0.394,0.2139,Improved,0.148
+XGBoost balanced+tuned [Default (0.50)],0.6548,0.2662,0.197,0.41,0.2124,Improved,0.621
+XGBoost balanced+tuned [Optimal (0.62)],0.6548,0.2281,0.2487,0.2106,0.2124,Improved,0.621
+Lr Adjusted balanced+calibrated [Default (0.50)],0.6404,0.0,0.0,0.0,0.1873,Improved,0.128
+Lr Adjusted balanced+calibrated [Optimal (0.13)],0.6404,0.2589,0.1783,0.4728,0.1873,Improved,0.128
+Lr Restricted balanced+calibrated [Default (0.50)],0.5869,0.0,0.0,0.0,0.144,Improved,0.108
+Lr Restricted balanced+calibrated [Optimal (0.11)],0.5869,0.2292,0.1382,0.673,0.144,Improved,0.108
+XGBoost (balanced),0.6769,0.2784,0.1798,0.6159,0.2237,Original,
+Random Forest (balanced),0.6606,0.0094,0.4583,0.0048,0.2122,Original,
+Lr Adjusted (balanced),0.639,0.2559,0.1692,0.5247,0.1905,Original,
+Lr Adjusted (smote),0.6355,0.0009,0.1667,0.0004,0.1914,Original,
+Random Forest (smote),0.6043,0.0094,0.55,0.0048,0.1694,Original,
+Neural Network (smote),0.5926,0.2264,0.1425,0.5506,0.1623,Original,
+Lr Restricted (balanced),0.5866,0.229,0.1424,0.5843,0.145,Original,
+XGBoost (smote),0.5759,0.0747,0.2199,0.045,0.1512,Original,
+Lr Restricted (smote),0.5747,0.0,0.0,0.0,0.1415,Original,
+Neural Network (balanced),0.5332,0.2004,0.1303,0.4338,0.1606,Original,
